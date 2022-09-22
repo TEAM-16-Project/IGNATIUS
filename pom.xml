@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Tesla-app</name>
-	      <url>http://18.212.6.250:8191/landmark/repository/nad-fe-releases/</url>
+	      <url>http://54.92.220.129:8081/repository/good-fe-releases/nad-fe-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>maven-team-16</name>
-	      <url>http://18.212.6.250:8191/landmark/repository/nad-fe-snapshots/</url>
+	      <url>http://54.92.220.129:8081/repository/good-fe-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
